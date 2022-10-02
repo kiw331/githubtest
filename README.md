@@ -21,4 +21,6 @@ b1에서 18줄 작성
 ## 메인에서 수정하고
 b1에서 풀했을때
 Merge branch 'main' into b1이라 
+<br>
+pull 했을때는 안뜨고
 
