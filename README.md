@@ -20,7 +20,11 @@ b1에서 18줄 작성
 
 ## 메인에서 수정하고
 b1에서 풀했을때
-Merge branch 'main' into b1이라 
+Merge branch 'main' into b1이라 뜨나?
 <br>
 pull 했을때는 안뜨고
+<br>
+main 으로 PR MR했을때도 안뜨네
+<br>
+혹시 깃허브 상에서 behind눌러서 하면??
 
